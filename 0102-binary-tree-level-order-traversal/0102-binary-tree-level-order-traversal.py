@@ -13,7 +13,7 @@ class Solution:
         while queue:
             length = len(queue)
             temp = []
-            for i in range(length):
+            for _ in range(length):
                 curr = queue.pop()
                 temp.append(curr.val)
                 if curr.left:
