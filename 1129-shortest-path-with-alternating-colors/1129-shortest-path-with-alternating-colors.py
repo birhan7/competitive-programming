@@ -7,7 +7,6 @@ class Solution:
             graph[u].append([v,"red"])
         for u, v in blueEdges:
             graph[u].append([v,"blue"])
-        print(graph)
         
 
         def bfs(vertex):
@@ -21,7 +20,6 @@ class Solution:
                     if curr == vertex:
                         return step
                     for neighbor in graph[curr]:
-                        print("neb", neighbor)
                         nbr_visited = False
                         nbr_clr = neighbor[1]
                         temp = visited[curr][neighbor[0]]
