@@ -1,7 +1,6 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         missing, duplicate = 0, 0
-        ans = set()
         for i in range(len(nums)):
             to_index = nums[i] - 1
             while to_index != i:
