@@ -1,10 +1,13 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        ans = set(nums)
-        s = set()
-        for i in range(len(nums)+1):
-            s.add(i)
-        return list(s-ans)[0]
+        val = 0
+        n = len(nums) + 1
+        for i in range(n):
+            val = val ^ i
         
+        for i in range(n - 1):
+            val = val ^ nums[i]
+        return val
+
 
         
