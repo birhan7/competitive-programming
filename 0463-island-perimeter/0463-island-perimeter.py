@@ -17,7 +17,7 @@ class Solution:
 
                 if not inbound(new_row, new_col):
                     perimeter += 1
-                if inbound(new_row, new_col) and not visited[new_row][new_col]:
+                elif not visited[new_row][new_col]:
                         perimeter += dfs(new_row, new_col)
             return perimeter 
 
