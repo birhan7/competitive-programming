@@ -1,30 +1,24 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        row_length, col_length = len(grid), len(grid[0])
+        rows, cols = len(grid), len(grid[0])
         directions = [(0,1), (0, -1), (1, 0), (-1, 0)]
-        visited = [[False for _ in range(col_length)] for _ in range(row_length)]
-
-        def inbound(row, col):
-            return 0 <= row < row_length and 0 <= col < col_length and grid[row][col] == 1
+        visited = [[False for _ in range(cols)] for _ in range(rows)]
+        perimeter = 0
 
         def dfs(row, col):
-            perimeter = 0
-            visited[row][col] = True
-
-            for row_change, col_change in directions:
-                new_row = row + row_change
-                new_col = col + col_change
-
-                if not inbound(new_row, new_col):
-                    perimeter += 1
-                elif not visited[new_row][new_col]:
-                        perimeter += dfs(new_row, new_col)
-            return perimeter 
-
-        for i in range(row_length):
-            for j in range(col_length):
+            if row < 0 or row >= rows or col < 0 or col >= cols or grid[row][col] == 0:
+                return 1
+            if grid[row][col] == -1:
+                return 0
+            
+            grid[row][col] = -1
+            return (dfs(row + 1, col) + dfs(row - 1, col) + dfs(row, col + 1) + dfs(row, col - 1))
+            
+        for i in range(rows):
+            for j in range(cols):
                 if grid[i][j] == 1:
-                    return dfs(i, j)
+                    perimeter +=  dfs(i, j)
+        return perimeter
         
       
                     
