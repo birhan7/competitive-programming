@@ -1,6 +1,6 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        perimeter, row_length, col_length = 0, len(grid), len(grid[0])
+        row_length, col_length = len(grid), len(grid[0])
         directions = [(0,1), (0, -1), (1, 0), (-1, 0)]
         visited = [[False for _ in range(col_length)] for _ in range(row_length)]
 
