@@ -9,5 +9,5 @@ class Solution:
             if stone1 < stone2:
                 heappush(stones,stone1-stone2)
                 print(stones)
-        return abs(stones[0]) 
+        return abs(stones[0]) if len(stones) > 0 else 0
         
