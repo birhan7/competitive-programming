@@ -1,9 +1,8 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        dic = set(wordDict)
         memo = {}
         n = len(s)
-
+        dic = set(wordDict)
         def dp(l, r):
             if r == n and s[l:r + 1] in dic:
                 return True
@@ -12,7 +11,7 @@ class Solution:
             if (l, r) not in memo:
                 include = False
                 if s[l:r+1] in dic:
-                    include = dp(l,r + 1) or dp(r + 1, r + 1)
+                    include = dp(r + 1, r + 1)
                 exclude = dp(l,r + 1)
                 memo[(l, r)] = include or exclude
             return memo[(l, r)]
