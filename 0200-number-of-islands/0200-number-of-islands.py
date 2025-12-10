@@ -5,7 +5,7 @@ class Solution:
         def inbound(row, col):
             return 0 <= row < n and 0 <= col < m and grid[row][col] == "1"
         
-        directions = [(0, 1), (1, 0)]
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
         def dfs(row, col):
             grid[row][col] = "0"
