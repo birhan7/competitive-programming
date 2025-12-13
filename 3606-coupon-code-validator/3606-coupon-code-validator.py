@@ -9,7 +9,6 @@ class Solution:
         for i in range(len(code)):
             if check(i):
                 temp[businessLine[i]].append(code[i])
-        print(temp)
         ans = []
         for k in business:
             if temp[k]:
