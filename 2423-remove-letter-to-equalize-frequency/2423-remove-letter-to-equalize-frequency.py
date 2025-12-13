@@ -1,16 +1,18 @@
 class Solution:
     def equalFrequency(self, word: str) -> bool:
-        count = Counter(Counter(word).values())
-        if len(count) == 1 and ((1 in count.keys()) or (1 in count.values())):
-            return True
-        elif len(count) == 2:
-            if count.get(1, 0) == 1:
-                return True
-            elif count[max(count.keys())] == 1 and max(count.keys()) - min(count.keys()) == 1:
-                return True
-        return False
+        word_dict = Counter(word)
+        key_set = list(word_dict.keys())
 
-        
+        for key in key_set:
+            word_dict[key]-=1
+            if word_dict[key]==0:
+                word_dict.pop(key)
+
+            if len(set(word_dict.values()))==1:
+                return True
+            word_dict[key]+=1
+
+        return False
         
 
 
