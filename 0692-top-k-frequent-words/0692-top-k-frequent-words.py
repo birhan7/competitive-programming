@@ -2,7 +2,6 @@ class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
         heap = []
         count = Counter(words)
-        print(count)
         for key in count:
             heap.append((count[key], key))
             if len(heap) > k:
