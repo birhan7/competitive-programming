@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/birhan7/competitive-programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/birhan7/competitive-programming/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/birhan7/competitive-programming/tree/main/0283-move-zeroes/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/birhan7/competitive-programming/tree/main/0045-jump-game-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,5 +45,6 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/birhan7/competitive-programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
