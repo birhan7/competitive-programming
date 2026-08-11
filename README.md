@@ -5,11 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
