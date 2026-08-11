@@ -47,4 +47,8 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/birhan7/competitive-programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
