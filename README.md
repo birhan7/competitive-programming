@@ -13,6 +13,7 @@
 | [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
+| [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/birhan7/competitive-programming/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0045-jump-game-ii](https://github.com/birhan7/competitive-programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/birhan7/competitive-programming/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/birhan7/competitive-programming/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +65,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Design
 | Problem Name | Difficulty |
