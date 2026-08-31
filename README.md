@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/birhan7/competitive-programming/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@
 | [0075-sort-colors](https://github.com/birhan7/competitive-programming/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/birhan7/competitive-programming/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/birhan7/competitive-programming/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
