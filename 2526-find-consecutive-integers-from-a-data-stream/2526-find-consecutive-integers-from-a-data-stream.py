@@ -1,19 +1,21 @@
 class DataStream:
 
     def __init__(self, value: int, k: int):
-        self.stream = []
+        self.stream = collections.deque()
         self.value = value
         self.k = k
         self.count = 0
         
     def consec(self, num: int) -> bool:
+        if self.k == len(self.stream):
+            if self.stream[0] == self.value:
+                self.count -= 1
+            self.stream.popleft()
         self.stream.append(num)
         if num == self.value:
             self.count += 1
-        else:
-            self.count = 0
-            return False
-        return len(self.stream) >= self.k and self.count >= self.k
+        return self.count == self.k
+        
 
         
 
