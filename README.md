@@ -59,4 +59,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/birhan7/competitive-programming/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 <!---LeetCode Topics End-->
