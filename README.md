@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/birhan7/competitive-programming/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/birhan7/competitive-programming/tree/main/0075-sort-colors/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/birhan7/competitive-programming/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/birhan7/competitive-programming/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 <!---LeetCode Topics End-->
