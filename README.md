@@ -86,4 +86,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/birhan7/competitive-programming/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/birhan7/competitive-programming/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
