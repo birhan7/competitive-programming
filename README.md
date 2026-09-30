@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
+| [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/birhan7/competitive-programming/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -94,4 +95,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/birhan7/competitive-programming/tree/main/0206-reverse-linked-list/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
