@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/birhan7/competitive-programming/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/birhan7/competitive-programming/tree/main/0071-simplify-path/) | Medium |
 | [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/birhan7/competitive-programming/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/birhan7/competitive-programming/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Design
@@ -129,9 +131,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
 <!---LeetCode Topics End-->
