@@ -28,6 +28,7 @@
 | [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/birhan7/competitive-programming/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/birhan7/competitive-programming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
