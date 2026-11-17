@@ -28,6 +28,7 @@
 | [0496-next-greater-element-i](https://github.com/birhan7/competitive-programming/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/birhan7/competitive-programming/tree/main/0739-daily-temperatures/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/birhan7/competitive-programming/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1020-number-of-enclaves](https://github.com/birhan7/competitive-programming/tree/main/1020-number-of-enclaves/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/birhan7/competitive-programming/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Two Pointers
@@ -115,6 +116,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/birhan7/competitive-programming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0257-binary-tree-paths](https://github.com/birhan7/competitive-programming/tree/main/0257-binary-tree-paths/) | Easy |
+| [1020-number-of-enclaves](https://github.com/birhan7/competitive-programming/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,13 +134,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [1020-number-of-enclaves](https://github.com/birhan7/competitive-programming/tree/main/1020-number-of-enclaves/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/birhan7/competitive-programming/tree/main/1020-number-of-enclaves/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/birhan7/competitive-programming/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/birhan7/competitive-programming/tree/main/0433-minimum-genetic-mutation/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/birhan7/competitive-programming/tree/main/1020-number-of-enclaves/) | Medium |
 <!---LeetCode Topics End-->
